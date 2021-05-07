@@ -1,10 +1,11 @@
-# How to calculate the "EU taxonomy of sustainable activities regulation" for a portfolio
-*Andre - suggest a better heading*
+**Using Python to apply climate change objectives of the EU taxonomy** 
 
 ## Overview
-*Andre - What is EU taxo and why this is needed*
+In order to meet the objectives of the European Green Deal and making Europe climate neutral by 2050; the EU is developing a series of ambitious new regulations that will not only help it achieve climate and energy goals but also aims to make the economy and health systems more resilient in the process.
+For this to happen however the EU has recognised the need to change the flow of money towards sustainable activities. Which is where the EU Taxonomy comes in. At a high level this is about providing a common language and a clear definition of what ‘sustainable’ is.   But look under the hood and you will find a detailed classification system of environmentally sustainable economic activities and an even more detailed set of targets depending on the objective and activity. 
+What makes an economic activity sustainable depends on several variables; the taxonomy objective, the type of activity, the kinds of technical screening criteria companies need to pass in order to be “aligned”, doing no significant harm in the process and finally minimum social safeguards. It’s a data gauntlet but we’ve provided a practical example on how to measure objectives 1 and 2.
+Overall the EU taxonomy introduces six objectives to measure the portfolio exposure. These objectives are:
 
-The EU taxonomy introduces six objectives to measure the portfolio exposute. These objectives are:
 1.	**Climate change mitigation**
 2.	**Climate change adaptation**
 3.	The sustainable use and protection of water and marine resources
